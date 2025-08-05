@@ -1,0 +1,46 @@
+{
+	"2drm": [
+		"2drm/00.wav",
+		"2drm/01.wav",
+		"2drm/02.wav",
+		"2drm/03.wav",
+		"2drm/04.wav",
+		"2drm/05.wav",
+		"2drm/06.wav",
+		"2drm/07.wav",
+		"2drm/08.wav",
+		"2drm/09.wav",
+		"2drm/10.wav",
+		"2drm/11.wav",
+		"2drm/12.wav",
+		"2drm/13.wav",
+		"2drm/14.wav",
+		"2drm/15.wav",
+		"2drm/16.wav",
+		"2drm/17.wav",
+		"2drm/18.wav",
+		"2drm/19.wav",
+		"2drm/20.wav",
+		"2drm/21.wav"
+	],
+	"2vo": [
+		"2vo/00.wav",
+		"2vo/01.wav",
+		"2vo/02.wav",
+		"2vo/03.wav",
+		"2vo/04.wav"
+	],
+	"_base": "https://shojironakaoka.github.io/strudel/",
+	"zht": [
+		"zht/00.wav", "zht/01.wav", "zht/02.wav", "zht/03.wav", "zht/04.wav", "zht/05.wav", "zht/06.wav", "zht/07.wav", "zht/08.wav", "zht/09.wav",
+		"zht/10.wav", "zht/11.wav", "zht/12.wav", "zht/13.wav", "zht/14.wav", "zht/15.wav", "zht/16.wav", "zht/17.wav", "zht/18.wav", "zht/19.wav",
+		"zht/20.wav", "zht/21.wav", "zht/22.wav", "zht/23.wav", "zht/24.wav", "zht/25.wav", "zht/26.wav", "zht/27.wav", "zht/28.wav", "zht/29.wav",
+		"zht/30.wav", "zht/31.wav", "zht/32.wav", "zht/33.wav", "zht/34.wav", "zht/35.wav", "zht/36.wav", "zht/37.wav", "zht/38.wav", "zht/39.wav",
+		"zht/40.wav", "zht/41.wav", "zht/42.wav", "zht/43.wav", "zht/44.wav", "zht/45.wav", "zht/46.wav", "zht/47.wav", "zht/48.wav", "zht/49.wav",
+		"zht/50.wav", "zht/51.wav", "zht/52.wav", "zht/53.wav", "zht/54.wav", "zht/55.wav", "zht/56.wav", "zht/57.wav", "zht/58.wav", "zht/59.wav",
+		"zht/60.wav", "zht/61.wav", "zht/62.wav", "zht/63.wav", "zht/64.wav", "zht/65.wav", "zht/66.wav", "zht/67.wav", "zht/68.wav", "zht/69.wav",
+		"zht/70.wav", "zht/71.wav", "zht/72.wav", "zht/73.wav", "zht/74.wav", "zht/75.wav", "zht/76.wav", "zht/77.wav", "zht/78.wav", "zht/79.wav",
+		"zht/80.wav", "zht/81.wav", "zht/82.wav", "zht/83.wav", "zht/84.wav", "zht/85.wav", "zht/86.wav", "zht/87.wav", "zht/88.wav", "zht/89.wav",
+		"zht/90.wav", "zht/91.wav", "zht/92.wav", "zht/93.wav", "zht/94.wav", "zht/95.wav"
+	]
+}
